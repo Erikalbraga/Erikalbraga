@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Erikalbraga
 - 👀 I’m interested in web programming and desktop programming.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on anything relatrd to software development, specially web development.
 - 📫 How to reach me erikalbraga93@gmail.com
 
 <!---
